@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-almhameed&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-almhameed" /> </p>
 
+<img align="right" alt="💻" width="400" src="https://gifdb.com/images/high/coding-walking-cat-17mitwkziw2xzxxk.webp">
+
 - 🔭 I’m currently working on [Text](https://github.com/Hamza-Almhameed/Text)
 
 - 🌱 I’m currently learning **Laravel**
